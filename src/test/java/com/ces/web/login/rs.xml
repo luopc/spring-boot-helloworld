@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<result value="1">success</result>
+	<data>
+		<username value="系统管理员" />
+		<userId value="1" />
+		<orgId value="200461" />
+		<orgName value="茂名市信访局" />
+		<token value="EC594CC4DFC54E21A7620167B270B38E" />
+	</data>
+</dataset>
+</dataset>
